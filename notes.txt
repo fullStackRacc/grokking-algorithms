@@ -1,0 +1,3 @@
+01 - Introduction to Algorithms
+
+Binary Search - When you search the middle of a sorted list to see if the thing you want is higher or lower, then repeat until you find the answer!
